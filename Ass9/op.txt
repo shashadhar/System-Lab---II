@@ -1,0 +1,18 @@
+QB_FCF
+Rmin	Energy	Price	ExecutionTime
+60	60	45.25	0
+QB_MCF
+Rmin	Energy	Price	ExecutionTime
+60	62	44.25	0
+QB_SCF
+Rmin	Energy	Price	ExecutionTime
+60	60	42.75	0
+RB_FCF
+Rmin	Energy	Price	ExecutionTime
+60	64	48.25	0.9995
+RB_MCF
+Rmin	Energy	Price	ExecutionTime
+60	60	42.75	1.0027
+RB_SCF
+Rmin	Energy	Price	ExecutionTime
+60	60	42.75	0

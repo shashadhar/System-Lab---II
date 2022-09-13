@@ -1,0 +1,9 @@
+Number1:1000
+
+Number2:12345,67890,12345
+
+The second number is bigger than the first number
+Sum :
+12345,67890,13345
+Substraction:
+12345,67890,11345
